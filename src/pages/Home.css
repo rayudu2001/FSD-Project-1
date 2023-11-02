@@ -1,0 +1,46 @@
+.image-fluid {
+    width: 500px;
+    height: auto;
+}
+
+.gradient-text1 {
+  background: linear-gradient(to right, 
+                              green 0%, 
+                              #3f7cff 33.33%, 
+                              #8338ec 50%, 
+                              #ff6b6b 66.67%, 
+                              violet 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 750;
+  font-size: 3.5rem;
+
+}
+
+.normal-text{
+  font-weight: 750;
+  font-size: 2.5rem;
+
+}
+
+.bigger-text{
+  font-weight: 750;
+  font-size: 3.5rem;
+  color: #fff;
+}
+
+.description-text {
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #f7efef;
+}
+
+.small-text{
+  font-weight: 650;
+  font-size: 1.4rem;
+}
+
+.hero-section {
+  background-color: #10142c;
+  height: 100%;
+}
